@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/srikanth97318/leetcodes/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/srikanth97318/leetcodes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srikanth97318/leetcodes/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srikanth97318/leetcodes/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/srikanth97318/leetcodes/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->

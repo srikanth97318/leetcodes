@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/srikanth97318/leetcodes/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/srikanth97318/leetcodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/srikanth97318/leetcodes/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/srikanth97318/leetcodes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srikanth97318/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/srikanth97318/leetcodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/srikanth97318/leetcodes/tree/master/0605-can-place-flowers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srikanth97318/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration

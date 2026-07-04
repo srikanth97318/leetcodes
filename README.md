@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/srikanth97318/leetcodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/srikanth97318/leetcodes/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/srikanth97318/leetcodes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/srikanth97318/leetcodes/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srikanth97318/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/srikanth97318/leetcodes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/srikanth97318/leetcodes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/srikanth97318/leetcodes/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/srikanth97318/leetcodes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srikanth97318/leetcodes/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/srikanth97318/leetcodes/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/srikanth97318/leetcodes/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srikanth97318/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/srikanth97318/leetcodes/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/srikanth97318/leetcodes/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/srikanth97318/leetcodes/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/srikanth97318/leetcodes/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |

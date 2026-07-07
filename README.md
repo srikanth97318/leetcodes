@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/srikanth97318/leetcodes/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/srikanth97318/leetcodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/srikanth97318/leetcodes/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/srikanth97318/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/srikanth97318/leetcodes/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/srikanth97318/leetcodes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/srikanth97318/leetcodes/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/srikanth97318/leetcodes/tree/master/3620-network-recovery-pathways) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/srikanth97318/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

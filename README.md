@@ -28,7 +28,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/srikanth97318/leetcodes/tree/master/1207-unique-number-of-occurrences) |
-| [1657-determine-if-two-strings-are-close](https://github.com/srikanth97318/leetcodes/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/srikanth97318/leetcodes/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/srikanth97318/leetcodes/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/srikanth97318/leetcodes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -52,7 +51,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
-| [1657-determine-if-two-strings-are-close](https://github.com/srikanth97318/leetcodes/tree/master/1657-determine-if-two-strings-are-close) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srikanth97318/leetcodes/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -77,7 +75,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
-| [1657-determine-if-two-strings-are-close](https://github.com/srikanth97318/leetcodes/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/srikanth97318/leetcodes/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srikanth97318/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
@@ -88,7 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/srikanth97318/leetcodes/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/srikanth97318/leetcodes/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/srikanth97318/leetcodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
-| [1657-determine-if-two-strings-are-close](https://github.com/srikanth97318/leetcodes/tree/master/1657-determine-if-two-strings-are-close) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/srikanth97318/leetcodes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |

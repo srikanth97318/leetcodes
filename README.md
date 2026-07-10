@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/srikanth97318/leetcodes/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srikanth97318/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/srikanth97318/leetcodes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/srikanth97318/leetcodes/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/srikanth97318/leetcodes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3620-network-recovery-pathways](https://github.com/srikanth97318/leetcodes/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srikanth97318/leetcodes/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/srikanth97318/leetcodes/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/srikanth97318/leetcodes/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/srikanth97318/leetcodes/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/srikanth97318/leetcodes/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/srikanth97318/leetcodes/tree/master/3739-count-subarrays-with-majority-element-ii) |

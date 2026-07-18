@@ -1,15 +1,7 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
-
 from collections import deque
-from typing import Optional, List
 
 class Solution:
-    def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+    def rightSideView(self, root):
         if not root:
             return []
 
@@ -22,6 +14,7 @@ class Solution:
             for i in range(level_size):
                 node = q.popleft()
 
+                # Last node of the current level
                 if i == level_size - 1:
                     ans.append(node.val)
 

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/srikanth97318/leetcodes/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/srikanth97318/leetcodes/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/srikanth97318/leetcodes/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/srikanth97318/leetcodes/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/srikanth97318/leetcodes/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/srikanth97318/leetcodes/tree/master/0605-can-place-flowers) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/srikanth97318/leetcodes/tree/main/0268-missing-number/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/srikanth97318/leetcodes/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/srikanth97318/leetcodes/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/srikanth97318/leetcodes/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/srikanth97318/leetcodes/tree/main/0268-missing-number/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/srikanth97318/leetcodes/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/srikanth97318/leetcodes/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srikanth97318/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/srikanth97318/leetcodes/tree/main/0268-missing-number/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/srikanth97318/leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [3620-network-recovery-pathways](https://github.com/srikanth97318/leetcodes/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -226,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/srikanth97318/leetcodes/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/srikanth97318/leetcodes/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/srikanth97318/leetcodes/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/srikanth97318/leetcodes/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/srikanth97318/leetcodes/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->

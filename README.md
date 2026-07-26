@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srikanth97318/leetcodes/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/srikanth97318/leetcodes/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/srikanth97318/leetcodes/tree/master/0334-increasing-triplet-subsequence) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srikanth97318/leetcodes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0605-can-place-flowers](https://github.com/srikanth97318/leetcodes/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/srikanth97318/leetcodes/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/srikanth97318/leetcodes/tree/master/0724-find-pivot-index) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/srikanth97318/leetcodes/tree/main/0268-missing-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srikanth97318/leetcodes/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/srikanth97318/leetcodes/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/srikanth97318/leetcodes/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/srikanth97318/leetcodes/tree/master/1679-max-number-of-k-sum-pairs) |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/srikanth97318/leetcodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/srikanth97318/leetcodes/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/srikanth97318/leetcodes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srikanth97318/leetcodes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/srikanth97318/leetcodes/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/srikanth97318/leetcodes/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/srikanth97318/leetcodes/tree/master/1732-find-the-highest-altitude) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/srikanth97318/leetcodes/tree/main/0268-missing-number/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srikanth97318/leetcodes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/srikanth97318/leetcodes/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/srikanth97318/leetcodes/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/srikanth97318/leetcodes/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srikanth97318/leetcodes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3620-network-recovery-pathways](https://github.com/srikanth97318/leetcodes/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 | Problem Name | Difficulty |

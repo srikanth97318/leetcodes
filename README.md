@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/srikanth97318/leetcodes/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/srikanth97318/leetcodes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/srikanth97318/leetcodes/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/srikanth97318/leetcodes/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/srikanth97318/leetcodes/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/srikanth97318/leetcodes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/srikanth97318/leetcodes/tree/main/0268-missing-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srikanth97318/leetcodes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/srikanth97318/leetcodes/tree/master/1657-determine-if-two-strings-are-close) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/srikanth97318/leetcodes/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/srikanth97318/leetcodes/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/srikanth97318/leetcodes/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/srikanth97318/leetcodes/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/srikanth97318/leetcodes/tree/master/0345-reverse-vowels-of-a-string) |
